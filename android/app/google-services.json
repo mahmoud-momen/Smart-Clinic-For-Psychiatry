@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "530814919987",
+    "firebase_url": "https://smart-clinic-for-psychiatry-default-rtdb.firebaseio.com",
+    "project_id": "smart-clinic-for-psychiatry",
+    "storage_bucket": "smart-clinic-for-psychiatry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530814919987:android:778f005d5b5d733d6bca46",
+        "android_client_info": {
+          "package_name": "com.example.smart_clinic_for_psychiatry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRDDFDfdxqPe3pIXQlnRanCfPdAT4fULo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
